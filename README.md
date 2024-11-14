@@ -4,6 +4,8 @@
 
 Background & experience in front-end and back-end software development, leaning more on front-end. Also interested in test automation, cloud platforms and AI.
 
+---
+
 ### Languages & Tools
 
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
