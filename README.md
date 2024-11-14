@@ -1,4 +1,25 @@
-## Hi there 👋
+## Matias Ojakoski
+
+**`Software Developer`**
+
+Background & experience in front-end and back-end software development, leaning more on front-end. Also interested in test automation, cloud platforms and AI!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **mOjakoski/mOjakoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
