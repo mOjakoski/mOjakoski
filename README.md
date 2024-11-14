@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Background & experience in front-end and back-end software development, leaning more on front-end. Also interested in test automation, cloud platforms and AI. Working experience with JavaScript, TypeScript, UI design, C#, .NET, ASP.NET and SQL databases.
+Background & experience in front-end and back-end software development, leaning more on front-end. Also interested in test automation, virtual machines and AI. Working experience with JavaScript, TypeScript, UI design, C#, .NET, ASP.NET and SQL databases.
 
 ---
 
