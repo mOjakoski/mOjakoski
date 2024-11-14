@@ -25,7 +25,7 @@ Background & experience in front-end and back-end software development, leaning 
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"/>
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
 
-#
+
 
 <!--
 **mOjakoski/mOjakoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
