@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Background & experience in frontend and backend software development, leaning more on frontend. Currently working as a software developer with a focus on UI code with React and TypeScript. Also designing test automation using Playwright. GameDev in Unity with C# as a hobby.
+Background & experience in frontend and backend software development, leaning more on frontend. Currently working as a software developer with a focus on UI code using React and TypeScript. Also designing test automation using Playwright. GameDev in Unity with C# as a hobby.
 
 ---
 
