@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Background & experience in frontend and backend software development, leaning more on frontend. Also interested in test automation, virtual machines and AI. Working experience with JavaScript, TypeScript, UI design, C#, .NET, ASP.NET and SQL databases. GameDev in Unity with C# as a hobby.
+Background & experience in frontend and backend software development, leaning more on frontend. Currently working as a software developer with a focus on UI code and test automation using Playwright. GameDev in Unity with C# as a hobby.
 
 ---
 
